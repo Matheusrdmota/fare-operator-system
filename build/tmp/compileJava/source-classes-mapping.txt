@@ -1,0 +1,16 @@
+model/Fare.java
+ model.Fare
+model/Operator.java
+ model.Operator
+repository/Repository.java
+ repository.Repository
+controller/FareController.java
+ controller.FareController
+service/OperatorService.java
+ service.OperatorService
+controller/OperatorController.java
+ controller.OperatorController
+service/FareService.java
+ service.FareService
+Main.java
+ Main
